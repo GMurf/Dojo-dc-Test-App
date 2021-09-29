@@ -12,7 +12,33 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
 
+    <div>
+  <ol>
+  <li>
+    <h1>
+        interview for october list
+    </h1>
 
+  </li>
+  <li>
+    <h3>
+      solomoon johnson
+    </h3>
+  </li>
+  <li>
+    marcus j brutus
+  </li>
+  <li>
+    ...
+  </li>
+
+  </ol>
+
+
+
+
+
+    </div>
 
 
 
