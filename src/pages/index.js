@@ -15,15 +15,15 @@ const IndexPage = () => (
     <div>
   <ol>
   <li>
-    <h1>
+  
         interview for october list
-    </h1>
+
 
   </li>
   <li>
-    <h3>
+
       solomoon johnson
-    </h3>
+   
   </li>
   <li>
     marcus j brutus
